@@ -71,7 +71,6 @@ Given the large sample size, I used a **two-proportion z-test** to evaluate diff
 
 ### Z-Statistic Formula
 
-![Z-Test](https://amytakeuchi.github.io/images/ztest.png)
 <img src="https://amytakeuchi.github.io/images/ztest.png" width="400"/>
 
 The Z-statistic quantifies how far a data point is from the mean in standard deviations. A smaller p-value indicates stronger evidence against the null hypothesis.
